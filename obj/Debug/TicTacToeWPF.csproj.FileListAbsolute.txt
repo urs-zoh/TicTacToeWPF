@@ -1,0 +1,15 @@
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe.config
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.exe
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\bin\Debug\TicTacToeWPF.pdb
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.AssemblyReference.cache
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\MainWindow.g.cs
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\App.g.cs
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF_MarkupCompile.cache
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF_MarkupCompile.lref
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\MainWindow.baml
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.g.resources
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.Properties.Resources.resources
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.GenerateResource.cache
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.csproj.CoreCompileInputs.cache
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.exe
+Z:\Developer\ItStep\Year4\UML_and_Designing_patterns\lesson6_Exam\DP_Vaschenko_P212_Exam\TicTacToeWPF\TicTacToeWPF\obj\Debug\TicTacToeWPF.pdb
